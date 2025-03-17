@@ -1,5 +1,16 @@
 <h1>Hi, I'm Gerardo! <br/><a href="https://github.com/gerardog2">Data Scientist</a>, <a href="https://www.linkedin.com/in/gerardo-g-gutierrez">Mathematician</a></h1>
 
+<h2>📈 Data Analysis Projects:</h2>
+
+  - [Medical Data Visualizer](https://github.com/GerardoG2/Medical-Data-Visualizer)
+
+<h2>📝 Applied Mathematics Projects:</h2>
+
+- __Mathematics Of Operations Research__
+  - [Nurse Schedule Optimization](https://github.com/GerardoG2/nurse-scheduling-optimization)
+- __Graph Theory__
+  - [Distance Between Graphs](https://github.com/GerardoG2/distance-between-graphs)
+ 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
