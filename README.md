@@ -2,6 +2,7 @@
 
 <h2>📈 Data Analysis Projects:</h2>
 
+- __Pandas, Matplotlib, Seaborn__
   - [Medical Data Visualizer](https://github.com/GerardoG2/Medical-Data-Visualizer)
 
 <h2>📝 Applied Mathematics Projects:</h2>
