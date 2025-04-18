@@ -17,7 +17,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Pomona Transit System](https://github.com/GerardoG2/pomona-transit)
+  - [Pomona Transit System](https://github.com/GerardoG2/pomona-transit-system)
       - Simulates a public bus system backend using Java, PostgreSQL, JDBC, and Maven.
   - [Power Usage Simulation System](https://github.com/GerardoG2/power-usage-simulation-system)
   - [Disease Spread Simulation](https://github.com/GerardoG2/disease-spread-simulation)
