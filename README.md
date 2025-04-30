@@ -27,4 +27,4 @@
 
 <h2>🤳 Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/gerardo-g-gutierrez)
+- [LinkedIn](https://www.linkedin.com/in/gerardog121)
