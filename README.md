@@ -4,8 +4,8 @@
 
 - __Information Technology Competition 2025__
   - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
-- __Pandas, Matplotlib, Seaborn__
-  - [Medical Data Visualizer](https://github.com/GerardoG2/Medical-Data-Visualizer)
+- __Obesity Risk Analysis__
+  - [Medical Data Visualizer](https://github.com/GerardoG2/obesity-risk-analyis)
 
 <h2>📝 Applied Mathematics Projects:</h2>
 
