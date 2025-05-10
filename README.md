@@ -5,7 +5,7 @@
 - __Information Technology Competition 2025__
   - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
 - __Obesity Risk Analysis__
-  - [Medical Data Visualizer](https://github.com/GerardoG2/obesity-risk-analyis)
+  - [Obesity Risk](https://github.com/GerardoG2/obesity-risk-analyis)
 
 <h2>📝 Applied Mathematics Projects:</h2>
 
