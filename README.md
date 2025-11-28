@@ -2,12 +2,12 @@
 
 <h2>📈Machine Learning and Data Science Projects:</h2>
 
-- __Paddy Yield Linear Regression Analysis__
-  - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
+- [__Paddy Yield Linear Regression Analysis__](https://github.com/GerardoG2/Paddy-Yield-Predictive-Analysis)
+  - __Concepts__: Statistical Analysis, Linear Regression, Prediction, Model Evaluation 
 - __Medical Report Generator__
-  - [Obesity Risk](https://github.com/GerardoG2/obesity-risk-analyis)
-- __Information Technology Competition 2025__
-  - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
+  - [Medical Report Generator](https://github.com/GerardoG2/obesity-risk-analyis)
+- __Poison Mushroom Classifier__
+  - [Poison Mushroom Classifier](https://github.com/GerardoG2/PoisonMushroomClassifier)
 
 - __Information Technology Competition 2025__
   - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
