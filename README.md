@@ -1,11 +1,19 @@
 <h1>Hi, I'm Gerardo! <br/><a href="https://github.com/gerardog2">Data Scientist</a>, <a href="https://www.linkedin.com/in/gerardo-g-gutierrez">Mathematician</a></h1>
 
-<h2>📈 Data Analysis Projects:</h2>
+<h2>📈Machine Learning and Data Science Projects:</h2>
+
+- __Paddy Yield Linear Regression Analysis__
+  - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
+- __Medical Report Generator__
+  - [Obesity Risk](https://github.com/GerardoG2/obesity-risk-analyis)
+- __Information Technology Competition 2025__
+  - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
 
 - __Information Technology Competition 2025__
   - [Itty Bitty Electric Company](https://github.com/GerardoG2/itty-bitty-electric-company-proposal)
 - __Obesity Risk Analysis__
   - [Obesity Risk](https://github.com/GerardoG2/obesity-risk-analyis)
+
 
 <h2>📝 Applied Mathematics Projects:</h2>
 
